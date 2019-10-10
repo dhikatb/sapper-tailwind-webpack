@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "sapper-tailwind-webpack",
+  "description": "sapper-tailwind-webpack",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev -p 5000",

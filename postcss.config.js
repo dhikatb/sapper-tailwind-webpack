@@ -38,4 +38,3 @@ module.exports = {
       : [])
   ]
 };
-// ? [purgecss, require("cssnano")({ preset: "default" })]
